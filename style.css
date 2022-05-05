@@ -1,0 +1,39 @@
+body{
+    background: rgb(243,255,0);
+background: linear-gradient(0deg, rgba(243,255,0,0.9122242647058824) 0%, rgba(64,204,201,1) 75%);
+    color: #4B5320;
+
+}
+
+#CDA{
+    width: 1000px;
+    padding-left: 500px;
+}
+
+#span{
+    position: fixed;
+    color: salmon;
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    
+}
+
+h1{
+    font-size: 100px;
+    color: firebrick;
+    
+}
+
+p{
+    font-size: large;
+}
+
+button{
+    width: 300px;
+    height: 70px;
+    font-size: 35px;
+}
